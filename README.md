@@ -31,7 +31,7 @@ To develop a predictive model that accurately identifies customers at risk of ch
 
 ## 📈 Results
 
-**Best Model: Support Vector Machine (RBF Kernel)**  
+**Best Model: Support Vector Machine **  
 **Accuracy:** 97%  
 **F1-Score:** 97%  
 **ROC-AUC Score:** 99%
